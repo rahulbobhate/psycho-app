@@ -1,0 +1,17 @@
+{
+  "name": "passport-twitter-examples-signin",
+  "version": "0.0.0",
+  "dependencies": {
+    "connect-assets": "^5.0.1",
+    "cookie-parser": "^1.4.0",
+    "express": ">= 0.0.0",
+    "express-session": "^1.12.1",
+    "express-validator": "^2.18.0",
+    "fb": "^0.7.3",
+    "jade": "^1.11.0",
+    "mongoose": ">= 0.0.0",
+    "multer": "^1.1.0",
+    "passport": ">= 0.0.0",
+    "passport-facebook": "*"
+  }
+}
